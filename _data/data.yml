@@ -2,5 +2,14 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
+default:
+  title: York's Resume
+
 sidebar:
   name: York Tsai
+  national: Taiwan
+
+contact:
+  mail: oiffice90121@gmail.com
+  phone: +886 921064156
+  github: oiffice
